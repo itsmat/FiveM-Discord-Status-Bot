@@ -8,7 +8,7 @@ Bot to see the status of your fivem server via a Discord bot
 
 
 ## Tutorial
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.250%;"><iframe src="https://streamable.com/e/1gyky3" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+https://streamable.com/e/1gyky3
 
 ## Installation guide
 
