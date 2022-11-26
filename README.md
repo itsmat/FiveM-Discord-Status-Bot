@@ -28,5 +28,5 @@ $ python bot.py
 - Telegram [@negrigente](https://t.me/negrigente)
 - Discord [Mat#3616](https://github.com/itsmat)
 
-> 💡 Do you have a function to implement? Open an [issue](https://github.com/itsmat/FiveM-Telegram/issues/new) and I might implement it.
+> 💡 Do you have a function to implement? Open an [issue](https://github.com/itsmat/FiveM-Discord-Status-Bot/issues/new) and I might implement it.
 
