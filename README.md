@@ -6,11 +6,9 @@ Bot to see the status of your fivem server via a Discord bot
 - [x] - [Server Info Command](https://github.com/itsmat/FiveM-Discord-Status-Bot) - /status.
 - [x] - [Server Info Auto](https://github.com/itsmat/FiveM-Telegram) - Updating a message every {SECONDS}
 
-
 ## Tutorial
-![tutorial1](https://user-images.githubusercontent.com/79325182/204094795-f74a6e93-e699-4ce4-81ff-353a13b091d6.mp4)
-![tutorial2](https://user-images.githubusercontent.com/79325182/204094813-956b9d83-244d-4d51-acc0-f862aa28399a.mp4)
-
+https://user-images.githubusercontent.com/79325182/204094795-f74a6e93-e699-4ce4-81ff-353a13b091d6.mp4
+https://user-images.githubusercontent.com/79325182/204094813-956b9d83-244d-4d51-acc0-f862aa28399a.mp4
 
 ## Installation guide
 
@@ -31,3 +29,4 @@ $ python bot.py
 - Discord [Mat#3616](https://github.com/itsmat)
 
 > 💡 Do you have a function to implement? Open an [issue](https://github.com/itsmat/FiveM-Telegram/issues/new) and I might implement it.
+
