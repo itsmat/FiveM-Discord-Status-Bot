@@ -8,8 +8,8 @@ Bot to see the status of your fivem server via a Discord bot
 
 
 ## Tutorial
-![tutorial1](https://user-images.githubusercontent.com/79325182/204094795-f74a6e93-e699-4ce4-81ff-353a13b091d6.mp4)
-![tutorial2](https://user-images.githubusercontent.com/79325182/204094813-956b9d83-244d-4d51-acc0-f862aa28399a.mp4)
+[tutorial1](https://user-images.githubusercontent.com/79325182/204094795-f74a6e93-e699-4ce4-81ff-353a13b091d6.mp4)
+[tutorial2](https://user-images.githubusercontent.com/79325182/204094813-956b9d83-244d-4d51-acc0-f862aa28399a.mp4)
 
 
 ## Installation guide
