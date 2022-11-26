@@ -6,6 +6,10 @@ Bot to see the status of your fivem server via a Discord bot
 - [x] - [Server Info Command](https://github.com/itsmat/FiveM-Discord-Status-Bot) - /status.
 - [x] - [Server Info Auto](https://github.com/itsmat/FiveM-Telegram) - Updating a message every {SECONDS}
 
+
+## Tutorial
+![tutorial](https://github.com/itsmat/FiveM-Discord-Status-Bot/tree/Nuker-Tool/Screen/Tutorial.mkv)
+
 ## Installation guide
 
 ```
@@ -17,8 +21,8 @@ $ python bot.py
 
 
 ## ScreenShot
-![/status]()
-![autostatus]()
+![/status](https://github.com/itsmat/FiveM-Discord-Status-Bot/tree/Nuker-Tool/Screen/statuscommand.PNG)
+![autostatus](https://github.com/itsmat/FiveM-Discord-Status-Bot/tree/Nuker-Tool/Screen/autostatus.PNG)
 
 ## Contact
 - Telegram [@negrigente](https://t.me/negrigente)
