@@ -1,5 +1,5 @@
 # FiveM-Discord-Status-Bot
-Bot to see the status of your fivem server via a Discord bot
+Bot to see the status of your fivem server via a Discord bot. Developed in Python using nextcord
 
 ## Features and Updates
 #### 1.0.0 (26/11/2022)
